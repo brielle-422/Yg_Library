@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_banner_demo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.lyg.yg_library.banner.BannerDemoActivity"
+    android:orientation="vertical">
+    <com.lyg.yg_library.banner.ImageCycleView
+        android:id="@+id/icv_main_banner"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+    </com.lyg.yg_library.banner.ImageCycleView>
+
+</LinearLayout>
