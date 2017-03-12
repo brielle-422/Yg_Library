@@ -5,33 +5,40 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="30606890081093"
+    timestamp="20046149608817"
     token="-4042471419301451703"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="224" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="196" />
+        duration="0" />
     <task
         name="verifier"
-        duration="34" />
+        duration="0" />
 
     <artifact
-        location="D:\Yg_Library\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="D:\Yg_Library\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="30606890081093"
+        timestamp="19890832770315"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Yg_Library\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="20046149608817"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="D:\Yg_Library\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

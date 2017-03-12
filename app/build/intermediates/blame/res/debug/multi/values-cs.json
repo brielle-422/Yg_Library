@@ -368,8 +368,65 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2015,
+                    "endColumn": 77,
+                    "endOffset": 2088
+                },
+                "from": {
+                    "file": "D:\\Yg_Library\\app\\build\\intermediates\\exploded-aar\\Yg_Library\\pulltorefresh\\unspecified\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 77,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2093,
+                    "endColumn": 70,
+                    "endOffset": 2159
+                },
+                "from": {
+                    "file": "D:\\Yg_Library\\app\\build\\intermediates\\exploded-aar\\Yg_Library\\pulltorefresh\\unspecified\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 70,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2164,
+                    "endColumn": 82,
+                    "endOffset": 2242
+                },
+                "from": {
+                    "file": "D:\\Yg_Library\\app\\build\\intermediates\\exploded-aar\\Yg_Library\\pulltorefresh\\unspecified\\res\\values-cs\\values-cs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 82,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2247,
                     "endColumn": 81,
-                    "endOffset": 2092
+                    "endOffset": 2324
                 },
                 "from": {
                     "file": "D:\\Yg_Library\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-cs\\values-cs.xml",
@@ -384,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2097,
+                    "startOffset": 2329,
                     "endColumn": 100,
-                    "endOffset": 2193
+                    "endOffset": 2425
                 },
                 "from": {
                     "file": "D:\\Yg_Library\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-cs\\values-cs.xml",

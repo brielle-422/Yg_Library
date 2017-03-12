@@ -368,8 +368,65 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2048,
+                    "endColumn": 75,
+                    "endOffset": 2119
+                },
+                "from": {
+                    "file": "D:\\Yg_Library\\app\\build\\intermediates\\exploded-aar\\Yg_Library\\pulltorefresh\\unspecified\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 75,
+                        "endOffset": 126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2124,
+                    "endColumn": 72,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "D:\\Yg_Library\\app\\build\\intermediates\\exploded-aar\\Yg_Library\\pulltorefresh\\unspecified\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 72,
+                        "endOffset": 199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2197,
+                    "endColumn": 80,
+                    "endOffset": 2273
+                },
+                "from": {
+                    "file": "D:\\Yg_Library\\app\\build\\intermediates\\exploded-aar\\Yg_Library\\pulltorefresh\\unspecified\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 80,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2278,
                     "endColumn": 84,
-                    "endOffset": 2128
+                    "endOffset": 2358
                 },
                 "from": {
                     "file": "D:\\Yg_Library\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-pt-rBR\\values-pt-rBR.xml",
@@ -384,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2133,
+                    "startOffset": 2363,
                     "endColumn": 100,
-                    "endOffset": 2229
+                    "endOffset": 2459
                 },
                 "from": {
                     "file": "D:\\Yg_Library\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-pt-rBR\\values-pt-rBR.xml",

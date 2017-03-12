@@ -27,6 +27,7 @@
         <activity android:name="com.lyg.yg_library.banner.BannerDemoActivity" />
         <activity android:name="com.lyg.yg_library.fragment.FragmentDemoActivity" />
         <activity android:name="com.lyg.yg_library.swipemenu.SwipeMenuDemoActivity" />
+        <activity android:name="com.lyg.yg_library.pulltorefresh.PullToRefreshDemoActivity" />
     </application>
 
 </manifest>

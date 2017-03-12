@@ -19,7 +19,8 @@
         </activity>
         <activity android:name=".banner.BannerDemoActivity" />
         <activity android:name=".fragment.FragmentDemoActivity" />
-        <activity android:name=".swipemenu.SwipeMenuDemoActivity"></activity>
+        <activity android:name=".swipemenu.SwipeMenuDemoActivity" />
+        <activity android:name=".pulltorefresh.PullToRefreshDemoActivity"></activity>
     </application>
 
 </manifest>

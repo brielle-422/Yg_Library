@@ -10,6 +10,7 @@ import android.widget.ListView;
 
 import com.lyg.yg_library.banner.BannerDemoActivity;
 import com.lyg.yg_library.fragment.FragmentDemoActivity;
+import com.lyg.yg_library.pulltorefresh.PullToRefreshDemoActivity;
 import com.lyg.yg_library.swipemenu.SwipeMenuDemoActivity;
 
 import java.util.ArrayList;
@@ -43,6 +44,10 @@ public class MainActivity extends AppCompatActivity {
                         Intent intent_2=new Intent(MainActivity.this, SwipeMenuDemoActivity.class);
                         startActivity(intent_2);
                         break;
+                    case 3:
+                        Intent intent_3=new Intent(MainActivity.this, PullToRefreshDemoActivity.class);
+                        startActivity(intent_3);
+                        break;
                     default:
                         break;
                 }
@@ -55,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
         data.add("广告轮播banner");
         data.add("fragment");
         data.add("swipeMenu");
+        data.add("pulltorefresh");
         return data;
     }
 }
