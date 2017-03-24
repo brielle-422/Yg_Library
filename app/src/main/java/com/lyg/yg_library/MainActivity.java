@@ -11,6 +11,7 @@ import android.widget.ListView;
 import com.lyg.yg_library.banner.BannerDemoActivity;
 import com.lyg.yg_library.fragment.FragmentDemoActivity;
 import com.lyg.yg_library.pulltorefresh.PullToRefreshDemoActivity;
+import com.lyg.yg_library.screen.ScreenActivity;
 import com.lyg.yg_library.swipemenu.SwipeMenuDemoActivity;
 
 import java.util.ArrayList;
@@ -48,6 +49,10 @@ public class MainActivity extends AppCompatActivity {
                         Intent intent_3=new Intent(MainActivity.this, PullToRefreshDemoActivity.class);
                         startActivity(intent_3);
                         break;
+                    case 4:
+                        Intent intent_4=new Intent(MainActivity.this, ScreenActivity.class);
+                        startActivity(intent_4);
+                        break;
                     default:
                         break;
                 }
@@ -61,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
         data.add("fragment");
         data.add("swipeMenu");
         data.add("pulltorefresh");
+        data.add("screen");
         return data;
     }
 }

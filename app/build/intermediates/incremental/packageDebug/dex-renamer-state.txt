@@ -1,7 +1,4 @@
-#Thu Mar 09 14:55:49 CST 2017
-base.0=D\:\\Yg_Library\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ff28ca60964d3e74b221bf713c6f4e60791b6ef6
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\Yg_Library\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_852d642ab18da5692a55c09f90594ff619a82a88\\classes.dex
-base.1=D\:\\Yg_Library\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_852d642ab18da5692a55c09f90594ff619a82a88
-file.0=D\:\\Yg_Library\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_ff28ca60964d3e74b221bf713c6f4e60791b6ef6\\classes.dex
+#Fri Mar 24 11:13:48 CST 2017
+base.0=D\:\\Yg_Library\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Yg_Library\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
