@@ -22,10 +22,12 @@
         <activity android:name=".banner.BannerDemoActivity" />
         <activity android:name=".fragment.FragmentDemoActivity" />
         <activity android:name=".swipemenu.SwipeMenuDemoActivity" />
-        <activity android:name=".screen.ScreenActivity" />
-        <activity android:name=".pulltorefresh.PullToRefreshDemoActivity"></activity>
-        <service android:name=".screen.FloatWindowService" >
-        </service>
+        <activity android:name=".screen.ScreenActivity1" />
+        <activity android:name=".pulltorefresh.PullToRefreshDemoActivity" />
+
+        <service android:name=".screen.FloatWindowService"></service>
+
+        <activity android:name=".screen.ScreenActivity"></activity>
     </application>
 
 </manifest>

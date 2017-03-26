@@ -11,7 +11,7 @@ import android.widget.ListView;
 import com.lyg.yg_library.banner.BannerDemoActivity;
 import com.lyg.yg_library.fragment.FragmentDemoActivity;
 import com.lyg.yg_library.pulltorefresh.PullToRefreshDemoActivity;
-import com.lyg.yg_library.screen.ScreenActivity;
+import com.lyg.yg_library.screen.ScreenActivity1;
 import com.lyg.yg_library.swipemenu.SwipeMenuDemoActivity;
 
 import java.util.ArrayList;
@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(intent_3);
                         break;
                     case 4:
-                        Intent intent_4=new Intent(MainActivity.this, ScreenActivity.class);
+                        Intent intent_4=new Intent(MainActivity.this, ScreenActivity1.class);
                         startActivity(intent_4);
                         break;
                     default:

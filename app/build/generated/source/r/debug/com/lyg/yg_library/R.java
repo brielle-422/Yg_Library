@@ -2088,7 +2088,7 @@ containing a value of this type.
         public static final int activity_fragment_demo=0x7f04001b;
         public static final int activity_main=0x7f04001c;
         public static final int activity_pull_to_refresh_demo=0x7f04001d;
-        public static final int activity_screen=0x7f04001e;
+        public static final int activity_screen1 =0x7f04001e;
         public static final int activity_swipe_menu_demo=0x7f04001f;
         public static final int float_window_small=0x7f040020;
         public static final int fragment_one=0x7f040021;
